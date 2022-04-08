@@ -11,7 +11,7 @@ package step11;
  */
 import java.util.Scanner;
 
-public class B2750 {
+public class B2750 { 
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
